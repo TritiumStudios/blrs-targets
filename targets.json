@@ -7,12 +7,12 @@
                 "upload_methods": ["stlink", "stock"],
                 "min_version": "3.0.0",
                 "platform": "stm32",
-                "firmware": "HappyModel_TX_ES915TX",
-                "has_buzzer": true,
+                "firmware": "ELRSSX1280TX",
+                "has_buzzer": false,
                 "stlink": {
-                    "cpus": ["STM32F103C8T6", "STM32F103CBT6"],
-                    "offset": "0x4000",
-                    "bootloader": "r9m_bootloader.bin"
+                    "cpus": ["STM32L432KB"],
+                    "offset": "0x0000",
+                    "bootloader": null
                 }
             }
         },
