@@ -1,4 +1,4 @@
-# ExpressLRS Officially Supported Devices
+# blueLRS Officially Supported Devices
 
 This repository is for adding approved blueLRS hardware to the Configurator. Once a target is accepted and merged, it will immediately be available in the Configurator ready for use.
 
